@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <linearGradient id="igGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#feda75"></stop>
+    <stop offset="25%" stop-color="#fa7e1e"></stop>
+    <stop offset="50%" stop-color="#d62976"></stop>
+    <stop offset="75%" stop-color="#962fbf"></stop>
+    <stop offset="100%" stop-color="#4f5bd5"></stop>
+  </linearGradient>
+  <path fill="url(#igGrad)" d="M349.33 69.33H162.67C111.6 69.33 69.33 111.6 69.33 162.67v186.66c0 51.07 42.27 93.34 93.34 93.34h186.66c51.07 0 93.34-42.27 93.34-93.34V162.67c0-51.07-42.27-93.34-93.34-93.34zm-93.33 233.33c-40.96 0-74.33-33.37-74.33-74.33s33.37-74.33 74.33-74.33 74.33 33.37 74.33 74.33-33.37 74.33-74.33 74.33zm85.34-136.66a21.33 21.33 0 1 1-21.33-21.34 21.33 21.33 0 0 1 21.33 21.34z"></path>
+</svg>
