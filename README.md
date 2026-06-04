@@ -27,23 +27,6 @@ A responsive Spotify-inspired web application built using **HTML, CSS, and JavaS
 - Render (Deployment)
 - Git & GitHub
 
-#Project Structure
-
-
-spotify-clone/
-│
-├── assets/
-├── component/
-├── css/
-├── js/
-├── Spotify-songs/
-│
-├── index.html
-├── premium.html
-├── download.html
-├── help.html
-└── README.md
-
 # Installation
 
 1. Clone the repository
